@@ -1,0 +1,10 @@
+
+
+#container {
+height: 100%;
+width: 900px;
+margin-right: auto;
+margin-left: auto;
+background-color: #FFF;
+overflow: auto;
+}
